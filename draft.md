@@ -4,6 +4,8 @@
 
 [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 
+Programming as Theory Building, by Peter Naur
+
 The Mythical Man-Month: Essays on Software Engineering
 
 Code Complete
